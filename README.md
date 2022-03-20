@@ -11,4 +11,4 @@ Currently working on updating week 1 notes
 ##### Future plans:
 * Add in remaining weeks 
 
-* Add in the incident reports of class discussion boards and personal response/notes to each of them
+* Add in the discussion board reports of incidents or breaches as well as personal response/notes to each of them
