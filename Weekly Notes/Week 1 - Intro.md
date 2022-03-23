@@ -1,7 +1,7 @@
 ---
 title: Week 1 - Intro
-created: '2022-03-20T22:41:36.292Z'
-modified: '2022-03-23T19:29:56.826Z'
+created: '2022-03-20'
+modified: '2022-03-23'
 ---
 
 # Week 1 - Intro 
