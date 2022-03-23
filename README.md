@@ -2,7 +2,7 @@
 
 
 ### Status: 
-Currently working on updating week 1 notes
+Currently working on updating week 1 notes (week 1 notes finished, typos to be fixed)
 
 
 * [WEEK 1 Notes](https://github.com/Etam4225/CyberRisk-Notes/blob/main/Weekly%20Notes/Week%201%20-%20Intro.md)
