@@ -10,6 +10,12 @@ Currently working on updating week 1 notes (week 1 notes finished, typos to be f
 
 #### Discussion Posts on Incidents and Breaches:
 
+##### Individual Posts (Posts that are by me):
+
+
+
+##### Misc: (Posts by other students in the class which I felt would be useful to analyze further and respond to)
+
 
 ##### Future plans:
 * Add in remaining weeks 
