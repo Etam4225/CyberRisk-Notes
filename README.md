@@ -5,8 +5,8 @@
 Currently working on updating week 1 notes (week 1 notes finished, typos to be fixed)
 
 #### Weekly Notes:
-* [WEEK 1 Notes](https://github.com/Etam4225/CyberRisk-Notes/blob/main/Weekly%20Notes/Week%201%20-%20Intro.md)
-
+* [Week 1 Notes](https://github.com/Etam4225/CyberRisk-Notes/blob/main/Weekly%20Notes/Week%201%20-%20Intro.md)
+* [Week 2 Notes](https://github.com/Etam4225/CyberRisk-Notes/blob/main/Weekly%20Notes/Week%202%20-%20Various%20Case%20Studies%20%2B%20Cybersecurity%20General%20Info.md)
 
 #### Discussion Posts on Incidents and Breaches:
 
