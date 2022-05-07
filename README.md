@@ -22,6 +22,7 @@ Currently working on updating week 3+ notes - uploaded current week 3 notes, nee
 - [X] Week 1 Notes
 - [X] Week 2 Notes
 - [ ] Week 3 Notes
+- [ ] Separate .md for many common terms in cybersecurity (from week 3)
 - [ ] Week 4 Notes
 - [ ] Week 5 Notes
 - [ ] Week 6 Notes
