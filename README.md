@@ -2,7 +2,7 @@
 
 
 ### Status: 
-Currently working on updating week 3+ notes - uploaded current week 3 notes, need to still update
+Need to upload keyword sheet from week 3 vocab + continuing weekly notes
 
 #### Weekly Notes:
 * [Week 1 Notes](https://github.com/Etam4225/CyberRisk-Notes/blob/main/Weekly%20Notes/Week%201%20-%20Intro.md)
