@@ -1,9 +1,3 @@
----
-title: Week 3 - Additional Cyber Terms and Case Studies (Kaseya + ILOVEYOU)
-created: '2022-04-07'
-modified: '2022-04-07'
----
-
 # Week 3 - Additional Cyber Terms and Case Studies (Kaseya + ILOVEYOU)
 
 
@@ -21,33 +15,43 @@ Why a football org?
 
 
 
-### __Vocab/Keywords__: 
+### 💡 **Vocab/Keywords** 💡 
 
 __NCFTA__ - National Cyber Forensics Training Alliance
 
 Spoofing - People pretending to be others to gain access to data they would otherwise not be privy to
 
+Anomolies - abnormal, too much traffic - suspicious 
+
 [ic3.gov](https://www.ic3.gov/) - useful additional source for incidents and dangers of current cyber landscape
 
-###### MSP - Managed Security Provider
-###### MSSP - Managed Security Service Provider
+MSP - Managed Security Provider
+
+MSSP - Managed Security Service Provider
 
 Zero Day Vuln - Developers know about the vulnerability but not informed or patched (one the hacker knows)
 
 
 :no_entry: __Cyber Attack Chain__ (Acronym RILCE) :no_entry:
 
-1. Recon
-2. Intrusion
-3. Lateral Movement
-4. Command & Control
-5. Execution
+1. Recon - scouting, cyber-stalk, information gathering, identify vulnerability
+2. Intrusion - getting in and exploiting the vuln.
+3. Lateral Movement - look for crown jewels and artifacts
+4. Command & Control - signaling to/from network (communication of data)
+5. Execution - completion of the attack (exfiltration)
 
-#### __General Notes:__
+:grey_exclamation: Steps 2-4 is ideal for breaking the chain; the earlier, the better :grey_exclamation:
+:exclamation: Step 1 is usually very difficult to detect and it means the attacker is not quite in yet, detection is hard 
+:exclamation: Step 5 means that the attackers had exfiltrated information, this means the affected company/individual will need to attempt damage control, determining what kinds of data was stolen
 
-__Kaseya__ - One to many attack
+Goal is to break chain via reconigizng signals (15 signals :milky_way:)
 
-- IT company for a [MSP](#MSP-Managed-Security-Provider)
+Chain and signals based on the book Next Level Cybersecurity: Detect The Signals, Stop The Hack by Sai Huda
+#### **General Notes:**
+
+:computer: __Kaseya__ - One to many attack
+
+- IT company for a Managed Security Provider
 - Software for MSP.
 - Independence Day Attack - July 2nd
 - 1500 companies affected + Kaseya
