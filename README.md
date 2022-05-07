@@ -14,12 +14,17 @@ Currently working on updating week 3+ notes
 (Posts that are by me)
 
 
-
 #### Misc: 
 (Posts by other students in the class which I felt would be useful to analyze further and respond to)
 
 
 ##### Future plans:
-* Add in remaining weeks 
 
-* Add in the discussion board reports of incidents or breaches as well as personal response/notes to each of them
+- [ ] Week 3 Notes
+- [ ] Week 4 Notes
+- [ ] Week 5 Notes
+- [ ] Week 6 Notes
+- [ ] Week 7 Notes
+- [ ] Week 8 Notes
+- [ ]  Add in the discussion board reports of incidents or breaches as well as personal response/notes to each of them
+
