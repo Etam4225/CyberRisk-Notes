@@ -18,8 +18,9 @@ Currently working on updating week 3+ notes
 (Posts by other students in the class which I felt would be useful to analyze further and respond to)
 
 
-##### Future plans:
-
+##### Plans:
+- [X] Week 1 Notes
+- [X] Week 2 Notes
 - [ ] Week 3 Notes
 - [ ] Week 4 Notes
 - [ ] Week 5 Notes
