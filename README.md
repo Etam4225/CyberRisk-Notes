@@ -2,12 +2,12 @@
 
 
 ### Status: 
-Currently working on updating week 3+ notes
+Currently working on updating week 3+ notes - uploaded current week 3 notes, need to still update
 
 #### Weekly Notes:
 * [Week 1 Notes](https://github.com/Etam4225/CyberRisk-Notes/blob/main/Weekly%20Notes/Week%201%20-%20Intro.md)
 * [Week 2 Notes](https://github.com/Etam4225/CyberRisk-Notes/blob/main/Weekly%20Notes/Week%202%20-%20Various%20Case%20Studies%20%2B%20Cybersecurity%20General%20Info.md)
-
+* [Week 3 Notes](https://github.com/Etam4225/CyberRisk-Notes/blob/main/Weekly%20Notes/Week%203%20-%20Additional%20Cyber%20Terms%20and%20Case%20Studies%20(Kaseya%20%2B%20ILOVEYOU).md)
 #### Discussion Posts on Incidents and Breaches:
 
 #### Individual Posts: 
