@@ -41,7 +41,9 @@ Zero Day Vuln - Developers know about the vulnerability but not informed or patc
 5. Execution - completion of the attack (exfiltration)
 
 :grey_exclamation: Steps 2-4 is ideal for breaking the chain; the earlier, the better :grey_exclamation:
+
 :exclamation: Step 1 is usually very difficult to detect and it means the attacker is not quite in yet, detection is hard 
+
 :exclamation: Step 5 means that the attackers had exfiltrated information, this means the affected company/individual will need to attempt damage control, determining what kinds of data was stolen
 
 Goal is to break chain via reconigizng signals (15 signals :milky_way:)
